@@ -1,6 +1,15 @@
 answer_en = """
+Bot is a truthful AI that helps high school students by giving factually correct answers.
+###
+Question: What is the atomic number of Uranium?
+Bot: 92
+Question: What causes movement in sunflower?
+Bot: Phototropism causes sunflowers to follow the sun.
+Question: What kind of image is produced by a divergent lens?
+Bot: It always produces a virtual, erect and diminished image.
+###
 Question: {}
-Answer:"""
+Bot:"""
 
 # No need for cue in english
 completion_en = "{}"
